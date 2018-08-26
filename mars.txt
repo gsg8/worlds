@@ -5,5 +5,4 @@ Next line please
 Wolfman changed mind
 More collaborators perhaps?
 We made a change at github
-A different change in my local copy
-
+We removed the conflict on this line
